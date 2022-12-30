@@ -3,10 +3,10 @@ module github.com/wupeka/stork
 go 1.12
 
 require (
-	github.com/gin-gonic/gin v1.4.0
-	github.com/google/gofuzz v1.0.0 // indirect
+	github.com/gin-gonic/gin v1.7.0
 	github.com/kr/pretty v0.1.0 // indirect
-	golang.org/x/tools v0.0.0-20190929041059-e7abfedfabcf // indirect
+	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
+	github.com/modern-go/reflect2 v1.0.1 // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 )
